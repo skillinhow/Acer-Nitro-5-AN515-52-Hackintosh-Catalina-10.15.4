@@ -16,4 +16,5 @@ Versão do BIOS: V1.28
 
 ## Referências
 Baseado nas informações/arquivos encontrados aqui:
+
 https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh
