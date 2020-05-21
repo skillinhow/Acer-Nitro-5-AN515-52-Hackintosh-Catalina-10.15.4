@@ -1,7 +1,8 @@
 # Acer-Nitro-5-AN515-52-Hackintosh-Catalina-10.15.4
 
-Hackintosh para Acer Nitro 5 AN515-52 
-Foi utilizado o Notebook Acer Nitro 5 AN515-52 (N17C1)
+Hackintosh para Acer Nitro 5 AN515-52.
+
+Foi utilizado o Notebook Acer Nitro 5 AN515-52 (N17C1), desconheço se funciona em outras variações dessa linha.
 
 ## Configurações
 CPU: Intel i5-8300H
