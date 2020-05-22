@@ -26,7 +26,29 @@ Alterar o input de audio para 30
 
 Dar update nas kexts pelo clover
 
+Entrar no modo recovery e no terminal inserir o comandos:
+
+csrutil disable
+
+Inserir os seguintes comandos no terminal:
+
+sudo pmset -a hibernatemode 0
+
+sudo rm /var/vm/sleepimage
+
+sudo mkdir /var/vm/sleepimage
+
+sudo pmset -a standby 0
+
+sudo pmset -a autopoweroff 0
+
+Executar o "ritual do audio"
+
 ## Referências
 Baseado nas informações/arquivos encontrados aqui:
 
 https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh
+
+"Ritual do audio"
+
+https://drive.google.com/file/d/1l_4FbVODxf9646i8WVPmJl1gsenFXwhj/view?fbclid=IwAR3cqZc5ztKfl4EmRfFEJ-Of6FIuIHbBuQUh5KcjVhZt8SITqIqS2EIraNc
