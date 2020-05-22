@@ -15,6 +15,17 @@ Placa de rede: DW1560 (também pode ser usada para DW1820A)
 
 Versão do BIOS: V1.28
 
+## Procedimento
+Formatar normalmente
+
+Inserir o arquivo boot da EFI do pendrive de formatação
+
+Inserir a pasta EFI do Git abaixo
+
+Alterar o input de audio para 30
+
+Dar update nas kexts pelo clover
+
 ## Referências
 Baseado nas informações/arquivos encontrados aqui:
 
